@@ -1,4 +1,4 @@
-# Task Implementation Late Antiquity Modeling Project (LAMP)
+# Task Implementation for Late Antiquity Modeling Project (LAMP)
 Implementation of the LAMP tasks involving path prediction and viewshed analysis using geospatial data for GSoc 2026.
 
 **More Information:** [https://humanai.foundation/gsoc/2026/proposal_LAMP.html](https://humanai.foundation/gsoc/2026/proposal_LAMP.html)
