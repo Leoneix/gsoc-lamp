@@ -1,5 +1,6 @@
 # Task Implementation for Late Antiquity Modeling Project (LAMP)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)![GeoPandas](https://img.shields.io/badge/GeoPandas-GIS-green)![Rasterio](https://img.shields.io/badge/Rasterio-Raster%20Processing-orange)![Repo Size](https://img.shields.io/github/repo-size/Leoneix/gsoc-lamp)![Last Commit](https://img.shields.io/github/last-commit/Leoneix/gsoc-lamp)![Status](https://img.shields.io/badge/GSoC-Submission-success)
+---
 Implementation of the LAMP tasks involving path prediction and viewshed analysis using geospatial data for GSoc 2026.
 
 **More Information:** [https://humanai.foundation/gsoc/2026/proposal_LAMP.html](https://humanai.foundation/gsoc/2026/proposal_LAMP.html)
